@@ -1,0 +1,41 @@
+{
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "summary": "Romeo and Juliet is a tragedy written by William Shakespeare early in his career about two young star-crossed lovers whose deaths ultimately reconcile their feuding families. It was among Shakespeare's most popular plays during his lifetime and, along with Hamlet, is one of his most frequently performed plays. Today, the title characters are regarded as archetypal young lovers.",
+    "key_elements": {
+        "characters": [
+            "Romeo Montague: Impulsive young man from the Montague family.",
+            "Juliet Capulet: Intelligent and determined young woman from the Capulet family.",
+            "Tybalt Capulet: Juliet's hot-headed cousin.",
+            "Mercutio: Romeo's witty friend.",
+            "Friar Laurence: A well-intentioned priest who helps the lovers.",
+            "The Prince: Ruler of Verona who tries to maintain peace.",
+            "Lord Capulet: Juliet's father.",
+            "Lady Capulet: Juliet's mother.",
+            "Lord Montague: Romeo's father.",
+            "Lady Montague: Romeo's mother."
+        ],
+        "plot": [
+            "The play opens with a street brawl between the Montagues and Capulets.",
+            "Romeo attends a Capulet party in disguise and falls in love with Juliet.",
+            "Juliet's nurse arranges a secret marriage between Romeo and Juliet.",
+            "Tybalt kills Mercutio, and Romeo kills Tybalt in revenge.",
+            "The Prince banishes Romeo from Verona.",
+            "Friar Laurence's plan to reunite the lovers fails, leading to their deaths.",
+            "The families reconcile upon learning the truth."
+        ],
+        "conflicts": [
+            "Family feud between Montagues and Capulets.",
+            "Internal conflicts of the young lovers.",
+            "Miscommunication and bad timing."
+        ],
+        "themes": [
+            "Love vs. hate",
+            "Fate vs. free will",
+            "Youth vs. age",
+            "Reconciliation"
+        ]
+    },
+    "new_world": "Rival AI research labs in Silicon Valley",
+    "reimagined_title": "Romeo and Juliet: Code of Rivalry"
+}
