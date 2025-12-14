@@ -14,7 +14,9 @@ from openai import OpenAI
 # OPENAI CLIENT
 # ============================================================================
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+api_key =os.getenv("OPENAI_API_KEY")
+print(f"DEBUG: Key starts with: {api_key[:10]}")
+client = OpenAI(api_key=api_key)
 
 def llm_call(prompt: str, max_tokens: int = 1500) -> str:
     response = client.chat.completions.create(

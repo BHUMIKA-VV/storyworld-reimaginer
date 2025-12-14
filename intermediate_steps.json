@@ -1,0 +1,112 @@
+{
+  "narrative_core": {
+    "protagonists": [
+      {
+        "name": "Romeo",
+        "traits": [
+          "passionate",
+          "impulsive",
+          "romantic"
+        ],
+        "motivation": "love and connection",
+        "role": "young heir"
+      },
+      {
+        "name": "Juliet",
+        "traits": [
+          "intelligent",
+          "brave",
+          "defiant"
+        ],
+        "motivation": "autonomy and love",
+        "role": "young heiress"
+      }
+    ],
+    "antagonists": [
+      {
+        "name": "The Feud",
+        "traits": [
+          "ancient",
+          "destructive",
+          "senseless"
+        ],
+        "motivation": "perpetuate hatred",
+        "role": "systemic conflict"
+      }
+    ],
+    "central_conflict": "forbidden love across rigid social divisions",
+    "key_themes": [
+      "love vs hate",
+      "youth vs age",
+      "fate vs free will",
+      "individual vs society"
+    ],
+    "plot_beats": [
+      "Initial meeting in enemy territory",
+      "Secret romance begins",
+      "Violent confrontation kills allies",
+      "Desperate secret plan",
+      "Miscommunication leads to tragedy",
+      "Recognition of cost too late"
+    ],
+    "emotional_arc": "euphoria -> hope -> fear -> desperation -> tragedy -> collective grief",
+    "resolution_type": "tragic sacrifice leading to reconciliation"
+  },
+  "world_parameters": {
+    "setting_details": "Silicon Valley research campuses, closed-door demo rooms, VC boardrooms",
+    "power_structures": [
+      "corporate hierarchies",
+      "venture capital influence",
+      "patent ownership",
+      "academic prestige"
+    ],
+    "conflicts": [
+      "research rivalry",
+      "IP theft fears",
+      "ethical disagreements",
+      "talent poaching"
+    ],
+    "technology_level": "cutting-edge AI and neural systems",
+    "cultural_norms": [
+      "move fast mentality",
+      "publish or perish",
+      "disruption ideology",
+      "zero-sum competition"
+    ],
+    "stakes": "control over transformative AI technology"
+  },
+  "character_mapping": {
+    "characters": [
+      {
+        "name": "Romi",
+        "traits": [
+          "passionate",
+          "impulsive",
+          "romantic"
+        ],
+        "motivation": "love and connection",
+        "role": "young tech heir"
+      },
+      {
+        "name": "Juli",
+        "traits": [
+          "intelligent",
+          "brave",
+          "defiant"
+        ],
+        "motivation": "autonomy and love",
+        "role": "young tech heiress"
+      }
+    ]
+  },
+  "transformed_plot": {
+    "transformed_beats": [
+      "First encounter during a high-stakes tech demo in a rival company's innovation lab",
+      "An unexpected bond forms between two young engineers from competing startups, hidden from their corporate overlords",
+      "A sabotaged project results in a catastrophic failure, causing layoffs and heartbreak among their teams",
+      "They devise a risky plan to merge their technologies, hoping to disrupt the industry and prove their worth",
+      "Misguided assumptions lead to a public fallout, shattering their ambitions and trust in each other",
+      "The realization of their personal sacrifices and the impact on their careers comes only after it\u2019s too late to change course"
+    ]
+  }
+}

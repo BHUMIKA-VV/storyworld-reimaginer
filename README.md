@@ -6,9 +6,12 @@ A systematic AI-powered system for reimagining classic stories in new worlds whi
 
 ### Prerequisites
 - Python 3.8+
-- Anthropic API key
+- OpenAI API key
 
 ### Installation
+...
+pip install openai python-dotenv
+export OPENAI_API_KEY=sk-proj-********************
 
 ```bash
 # Clone or download the project
