@@ -14,14 +14,19 @@ pip install openai python-dotenv
 export OPENAI_API_KEY=sk-proj-********************
 
 ```bash
-# Clone or download the project
+# Clone the project
 cd narrative-transformer
 
 # Install dependencies
-pip install anthropic
+pip install openai python-dotenv
 
-# Set your API key
-export ANTHROPIC_API_KEY='your-api-key-here'
+# Set your API key (Choose one method)
+
+# Method A: Create a .env file (Recommended)
+echo "OPENAI_API_KEY=sk-proj-..." > .env
+
+# Method B: Export variable in terminal
+export OPENAI_API_KEY='sk-proj-...'
 
 # Run the transformation
 python run.py
